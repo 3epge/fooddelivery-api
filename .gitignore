@@ -1,0 +1,35 @@
+# Environment Files
+.env
+.env.*
+
+# Dependency Folders
+vendor/
+
+# Logs
+*.log
+
+# Temporary Files
+tmp/
+cache/
+
+# Build and Generated Files
+webroot/
+
+# IDE and System Files
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Test Reports
+coverage/
+phpunit.xml
+
+# Personal Config Files
+*.local
+*.bak
+*.tmp
+
+# Other Unnecessary Files
+*.iml
